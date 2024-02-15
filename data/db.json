@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st Post",
+      "dateTime": "January 30,24 1:09:57 PM",
+      "body": "Html"
+    },
+    {
+      "id": "2",
+      "title": "2nd Post",
+      "dateTime": "January 30,24 1:10:00 PM",
+      "body": "javascript class"
+    },
+    {
+      "id": "3",
+      "title": "3rd Post",
+      "dateTime": "January 30,24 1:10:08 PM",
+      "body": "Mongodb"
+    },
+    {
+      "id": "4",
+      "title": "4th Post",
+      "dateTime": "January 30,24 1:10:14 PM",
+      "body": "Express.js"
+    }
+  ]
+}
